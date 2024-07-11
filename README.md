@@ -53,3 +53,5 @@ sh
 Copy code
 php -v
 By following these steps, you should be able to set up and run the online restaurant ordering system for The Metro Bar and Kitchen. If you encounter any issues, make sure to double-check your environment settings and dependencies.
+![Screenshot 2024-07-01 193559](https://github.com/wisdomchinonyerem2020/Metro_Bar_and_Kitchen/assets/110913253/5ec97e86-0e3f-407c-9d3e-96ad071fa0ba)
+![Screenshot 2024-07-01 084036](https://github.com/wisdomchinonyerem2020/Metro_Bar_and_Kitchen/assets/110913253/200a8c62-8ea7-438a-b840-19ae3452d1ae)
